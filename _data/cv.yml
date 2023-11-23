@@ -55,7 +55,7 @@
       description:
         - To appear at <b>NeurIPS 2023 FMDM Workshop</b>, <b>ICLR 2024</b> average score 6.5;
         - Authors&#58 Hongxin Zhang*, <b>Weihua Du*</b>, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.
-        - Developing cooperative embodied agents, named CoELA, by leveraging Large Language Models (LLMs), focusing on communication and reasoning in multi-agent environments. By integrating LLMs like GPT-4, CoELA agents can communicate and cooperate effectively with both AI agents and humans, surpassing traditional planning-based methods.
+        - Developing cooperative embodied agents, named <em>CoELA</em>, by leveraging Large Language Models (LLMs), focusing on communication and reasoning in multi-agent environments. <em>CoELA</em> agents can communicate and cooperate effectively with both AI agents and humans, surpassing traditional planning-based methods.
         - Paper is available at <a href="https://openreview.net/forum?id=oBQVCTpKXW">openreview</a>.
 
     - title: Automatic Truss Design with Reinforcement Learning
@@ -63,7 +63,7 @@
       description:
         - Published at <b>IJCAI 2023</b>.
         - Authors&#58 <b>Weihua Du*</b>, Jinglun Zhao*, Chao Yu, Xingcheng Yao, Zimeng Song, Siyang Wu, Ruifeng Luo, Zhiyuan Liu, Xianzhong Zhao, Yi Wu.
-        - We develops <em>AutoTruss</em>, a two-stage framework addressing the complex combinatorial optimization challenge of truss layout design in the building industry, which outperforms the previous baselines on both 2D and 3D truss design tasks.
+        - We develop <em>AutoTruss</em>, a two-stage framework addressing the complex combinatorial optimization challenge of truss layout design in the building industry, which outperforms the previous baselines on both 2D and 3D truss design tasks.
         - Published version available at <a href="https://www.ijcai.org/proceedings/2023/407">https://www.ijcai.org/proceedings/2023/407</a>.
     
     - title: Iteratively Learn Diverse Strategies with State Distance Information
@@ -121,7 +121,7 @@
       value: 
         <b>Total</b> 103, <b>Reading</b> 29, <b>Listening</b> 26, <b>Speaking</b> 23, <b>Writing</b> 25.
     - name: Languages
-      value: C & C++, LaTeX, Python, PyTorch, etc.
+      value: C & C++, LaTeX, Python, PyTorch, Pascal, etc.
     - name: Sports
       value: Member of Tsinghua University Volleyball Team, 2022-2023.
     - name: Community
