@@ -11,36 +11,99 @@
 - title: Education
   type: time_table
   contents:
-    - title: Undergraduate
+    - title: Undergraduate, Bachelor of Engineering in Computer Science
       institution: IIIS, Tsinghua University, Beijing, China
-      year: 2020-now
+      year: 2020-Present
+      description:
+        - <a href='https://iiis.tsinghua.edu.cn/en/yaoclass/'>Yao Class</a> 03, <a href='https://iiis.tsinghua.edu.cn/en/'>Institute for Interdisciplinary Information Sciences (IIIS)</a>
+        - GPA <b>3.93/4.00</b>.
+
     - title: Senior High School
       institution: Changzhou Senior High School of Jiangsu Province, Jiangsu, China
       year: 2017-2020
 
-# TODO: add details
 - title: Experience
   type: time_table
   contents:
+    - title: Research Intern
+      institution: Shanghai Artificial Intelligence Laboratory, China
+      year: 2023.8-Present
+      description: 
+        - Advisored by <a href="https://zhangwenwei.cn/">Wenwei Zhang</a> and <a href="https://chenkai.site/">Kai Chen</a>;
+        - Involved in the iterating of InternLM, focusing in improving tool calling capabilities.
+
     - title: Visiting Student
-      institution: MIT-IBM Watson AI Lab, Massachusetts Institute of Technology
+      institution: MIT-IBM Watson AI Lab, Massachusetts Institute of Technology, US
       year: 2023.2-2023.7
-    - title: Intern
+      description: 
+        - Advisored by <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a> and <a href="https://web.mit.edu/cocosci/josh.html">Prof. Joshua B. Tenenbaum</a>;
+        - Developing cooperative embodied agents by leveraging Large Language Models (LLMs), focusing on communication and reasoning in multi-agent environments.
+
+    - title: Research Intern
       institution: Shanghai Qi Zhi Institute, China
-      year: 2022.11-2023.1
+      year: 2022.8-2023.1
+      description: 
+        - Advisored by <a href="https://www.linkedin.com/in/zhengyuan-yang-9b1b3a1b0/">Yi Wu</a>;
+        - First work develops <em>AutoTruss</em>, a two-stage framework addressing the complex combinatorial optimization challenge of truss layout design in the building industry;
+        - Another work aims to optimize rewards and discover diverse strategies, developing a diversity-driven RL algorithm, State-based Intrinsic-reward Policy Optimization (SIPO).
+
+- title: Publication
+  type: time_table
+  contents:
+    - title: Building Cooperative Embodied Agents Modularly with Large Language Models
+      year: 2023
+      description:
+        - To appear at <b>NeurIPS 2023 FMDM Workshop</b>, <b>ICLR 2024</b> average score 6.5;
+        - Authors&#58 Hongxin Zhang*, Weihua Du*, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.
+        - Developing cooperative embodied agents, named CoELA, by leveraging Large Language Models (LLMs), focusing on communication and reasoning in multi-agent environments. By integrating LLMs like GPT-4, CoELA agents can communicate and cooperate effectively with both AI agents and humans, surpassing traditional planning-based methods.
+        - Paper is available at <a href="https://openreview.net/forum?id=oBQVCTpKXW">openreview</a>.
+
+    - title: Automatic Truss Design with Reinforcement Learning
+      year: 2023
+      description:
+        - Published at <b>IJCAI 2023</b>.
+        - Authors&#58 Weihua Du*, Jinglun Zhao*, Chao Yu, Xingcheng Yao, Zimeng Song, Siyang Wu, Ruifeng Luo, Zhiyuan Liu, Xianzhong Zhao, Yi Wu.
+        - We develops <em>AutoTruss</em>, a two-stage framework addressing the complex combinatorial optimization challenge of truss layout design in the building industry, which outperforms the previous baselines on both 2D and 3D truss design tasks.
+        - Published version available at <a href="https://www.ijcai.org/proceedings/2023/407">https://www.ijcai.org/proceedings/2023/407</a>.
+    
+    - title: Iteratively Learn Diverse Strategies with State Distance Information
+      year: 2023
+      description:
+        - To appear at <b>NeurIPS 2023</b>.
+        - Authors&#58 Wei Fu, Weihua Du, Jingwei Li, Sunli Chen, Jingzhao Zhang, Yi Wu.
+        -  We developed a diversity-driven RL algorithm, State-based Intrinsic-reward Policy Optimization (SIPO). SIPO was tested across domains from robot locomotion to multi-agent games, consistently producing strategically diverse and human-interpretable policies that surpassed existing baselines
+        - Paper is available at <a href="https://arxiv.org/abs/2310.14509">arxiv</a>.
+
+- title: Manuscript
+  type: time_table
+  contents:
+    - title: Constrained Human-AI&#58 An Inclusive Embodied AI Assistance Challenge
+      year: 2023
+      description:
+        - Submitted to <b>CVPR 2024</b>.
+        - Authors&#58 Andi Peng*, Weihua Du*, Jiaming Shan*, Tianmin Shu, Chuang Gan
+        - We create a new benchmark, TDW-Constrained, which encompasses a variety of household tasks that test the AI's ability to infer and execute based on the human partner's physical limitations.
+    - title: HAZARD Challenge&#58 Embodied Decision Making in Dynamically Changing Environments
+      year: 2023
+      description:
+        - Submitted to <b>ICLR 2024</b>, average score 6.25.
+        - Authors&#58 Qinhong Zhou*, Sunli Chen*, Yisong Wang, Haozhe Xu, Weihua Du, Hongxin Zhang, Yilun Du, Joshua B. Tenenbaum, Chuang Gan.
+        - We create HAZARD, a novel benchmark for evaluating the decision-making abilities of intelligent embodied agents within high-fidelity virtual environments that undergo dynamic changes, like fire, flood, and wind.
+        - Paper is available at <a href="https://openreview.net/forum?id=NNpGrkwixL">openreview</a>.
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2023
       items: 
-        - Yao Award - Recognition Prizes
+        - Zheng Geru Scholarship (清华之友—郑格如奖学金)
+        - Andrew C. Yao Award (Nomination Prize)
     - year: 2022
       items: 
-        - Tsinghua University Scholarship - Mr. and Mrs. Qu Yuzhi Scholarship
+        - Mr. and Mrs. Qu Yuzhi Scholarship (清华之友－渠玉芝奖学金)
     - year: 2021
       items:
-        - Tsinghua University Scholarship - Mr. and Mrs. Huang Yicong Scholarship
+        - Mr. and Mrs. Huang Yicong Scholarship (清华之友－黄奕聪伉俪奖助学金)
 
 - title: Academic Interests
   type: nested_list
