@@ -43,7 +43,7 @@
       institution: Shanghai Qi Zhi Institute, China
       year: 2022.8-2023.1
       description: 
-        - Advisored by <a href="https://www.linkedin.com/in/zhengyuan-yang-9b1b3a1b0/">Yi Wu</a>;
+        - Advisored by <a href="https://jxwuyi.weebly.com/">Prof. Yi Wu</a>;
         - First work develops <em>AutoTruss</em>, a two-stage framework addressing the complex combinatorial optimization challenge of truss layout design in the building industry;
         - Another work aims to optimize rewards and discover diverse strategies, developing a diversity-driven RL algorithm, State-based Intrinsic-reward Policy Optimization (SIPO).
 
@@ -54,7 +54,7 @@
       year: 2023
       description:
         - To appear at <b>NeurIPS 2023 FMDM Workshop</b>, <b>ICLR 2024</b> average score 6.5;
-        - Authors&#58 Hongxin Zhang*, Weihua Du*, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.
+        - Authors&#58 Hongxin Zhang*, <b>Weihua Du*</b>, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan.
         - Developing cooperative embodied agents, named CoELA, by leveraging Large Language Models (LLMs), focusing on communication and reasoning in multi-agent environments. By integrating LLMs like GPT-4, CoELA agents can communicate and cooperate effectively with both AI agents and humans, surpassing traditional planning-based methods.
         - Paper is available at <a href="https://openreview.net/forum?id=oBQVCTpKXW">openreview</a>.
 
@@ -62,7 +62,7 @@
       year: 2023
       description:
         - Published at <b>IJCAI 2023</b>.
-        - Authors&#58 Weihua Du*, Jinglun Zhao*, Chao Yu, Xingcheng Yao, Zimeng Song, Siyang Wu, Ruifeng Luo, Zhiyuan Liu, Xianzhong Zhao, Yi Wu.
+        - Authors&#58 <b>Weihua Du*</b>, Jinglun Zhao*, Chao Yu, Xingcheng Yao, Zimeng Song, Siyang Wu, Ruifeng Luo, Zhiyuan Liu, Xianzhong Zhao, Yi Wu.
         - We develops <em>AutoTruss</em>, a two-stage framework addressing the complex combinatorial optimization challenge of truss layout design in the building industry, which outperforms the previous baselines on both 2D and 3D truss design tasks.
         - Published version available at <a href="https://www.ijcai.org/proceedings/2023/407">https://www.ijcai.org/proceedings/2023/407</a>.
     
@@ -70,7 +70,7 @@
       year: 2023
       description:
         - To appear at <b>NeurIPS 2023</b>.
-        - Authors&#58 Wei Fu, Weihua Du, Jingwei Li, Sunli Chen, Jingzhao Zhang, Yi Wu.
+        - Authors&#58 Wei Fu, <b>Weihua Du</b>, Jingwei Li, Sunli Chen, Jingzhao Zhang, Yi Wu.
         -  We developed a diversity-driven RL algorithm, State-based Intrinsic-reward Policy Optimization (SIPO). SIPO was tested across domains from robot locomotion to multi-agent games, consistently producing strategically diverse and human-interpretable policies that surpassed existing baselines
         - Paper is available at <a href="https://arxiv.org/abs/2310.14509">arxiv</a>.
 
@@ -78,16 +78,16 @@
   type: time_table
   contents:
     - title: Constrained Human-AI&#58 An Inclusive Embodied AI Assistance Challenge
-      year: 2023
+      year: 2023.08-2023.11
       description:
         - Submitted to <b>CVPR 2024</b>.
-        - Authors&#58 Andi Peng*, Weihua Du*, Jiaming Shan*, Tianmin Shu, Chuang Gan
+        - Authors&#58 Andi Peng*, <b>Weihua Du*</b>, Jiaming Shan*, Tianmin Shu, Chuang Gan
         - We create a new benchmark, TDW-Constrained, which encompasses a variety of household tasks that test the AI's ability to infer and execute based on the human partner's physical limitations.
     - title: HAZARD Challenge&#58 Embodied Decision Making in Dynamically Changing Environments
-      year: 2023
+      year: 2023.02-2023.05
       description:
         - Submitted to <b>ICLR 2024</b>, average score 6.25.
-        - Authors&#58 Qinhong Zhou*, Sunli Chen*, Yisong Wang, Haozhe Xu, Weihua Du, Hongxin Zhang, Yilun Du, Joshua B. Tenenbaum, Chuang Gan.
+        - Authors&#58 Qinhong Zhou*, Sunli Chen*, Yisong Wang, Haozhe Xu, <b>Weihua Du</b>, Hongxin Zhang, Yilun Du, Joshua B. Tenenbaum, Chuang Gan.
         - We create HAZARD, a novel benchmark for evaluating the decision-making abilities of intelligent embodied agents within high-fidelity virtual environments that undergo dynamic changes, like fire, flood, and wind.
         - Paper is available at <a href="https://openreview.net/forum?id=NNpGrkwixL">openreview</a>.
 
@@ -96,15 +96,16 @@
   contents:
     - year: 2023
       items: 
-        - Zheng Geru Scholarship (清华之友—郑格如奖学金)
-        - Andrew C. Yao Award (Nomination Prize)
+        - <b>Zheng Geru Scholarship (清华之友—郑格如奖学金)</b>
+        - <b>Andrew C. Yao Award (Nomination Prize)</b>
     - year: 2022
       items: 
-        - Mr. and Mrs. Qu Yuzhi Scholarship (清华之友－渠玉芝奖学金)
+        - <b>Mr. and Mrs. Qu Yuzhi Scholarship (清华之友－渠玉芝奖学金)</b>
     - year: 2021
       items:
-        - Mr. and Mrs. Huang Yicong Scholarship (清华之友－黄奕聪伉俪奖助学金)
+        - <b>Mr. and Mrs. Huang Yicong Scholarship (清华之友－黄奕聪伉俪奖助学金)</b>
 
+#TODO: rewrite the following part
 - title: Academic Interests
   type: nested_list
   contents:
@@ -112,7 +113,18 @@
     - title: Embodied AI
     - title: Reinfocement Learning
 
-- title: Other Interests
-  type: list
+- title: Others
+  type: map
   contents:
-    - <u>Hobbies:</u> volleyball, traveling, etc.
+    - name: TOEFL
+      value: 
+        <b>Total</b> 103, <b>Reading</b> 29, <b>Listening</b> 26, <b>Speaking</b> 23, <b>Writing</b> 25.
+    - name: Languages
+      value: C & C++, LaTeX, Python, PyTorch, etc.
+    - name: Sports
+      value: Member of Tsinghua University Volleyball Team, 2022-2023.
+    - name: Community
+      value: Volunteer at the Student Development Center of Tsinghua University, 2021-Present;<br>
+             187.0 hours of officially recorded volunteering work.
+    - name: Hobbies
+      value: Chinese Painting (Level 10 Amateur), Traveling, etc.
