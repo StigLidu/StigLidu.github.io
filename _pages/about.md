@@ -20,4 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I'm currently a senior-year undergraduate student at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)), majoring in Computer Science and Technology.
 
-My research interest lies in Generative Agents, Embodied AI, and Reinforcement Learning.
+My research interests lie in LLM-Based Agents, Embodied AI and Robotics, and Reinforcement Learning. I'm fascinated by human being's cognitive development, which has fueled my ambition to develop a general artificial intelligence (AGI) agent, capable of both assimilating existing knowledge and engaging in self-motivated, experiential learning. 
+
+Beyond my professional pursuits, I find joy in sports, especially volleyball and running. This blend of academic rigor and personal interests shapes my unique perspective.
