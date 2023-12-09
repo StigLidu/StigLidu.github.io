@@ -4,19 +4,28 @@
 
 // Typography
 
-p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-em,
-div,
-li,
-span,
-strong {
+html {
+  font-size: 17px; /* Set your desired font size */
+}
+
+em, div, span {
   color: var(--global-text-color);
+  font-family: 'Cambria', serif;
+}
+
+p, li{
+  color: var(--global-text-color);
+  font-family: 'Cambria', serif;
+}
+
+b, strong{
+  font-weight: bold;
+  color: var(--global-text-color);
+  font-family: 'Cambria', serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-weight: bold;
 }
 
 hr {

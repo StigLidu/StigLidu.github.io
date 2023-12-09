@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: publications by categories in reversed chronological order. The asterisks mean that authors are equal contribution.
+description: Publications by categories in reversed chronological order. The asterisks(*) mean that authors are equal contribution.
 years: [2023]
 nav: true
 nav_order: 1
