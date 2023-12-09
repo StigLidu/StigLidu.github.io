@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
 profile:
   align: right
-  image: my_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: my_pic_2.jpg
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Yao Class 03, IIIS</p>
     <p>Tsinghua University</p>

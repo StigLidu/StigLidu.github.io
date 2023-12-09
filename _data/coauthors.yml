@@ -1,34 +1,35 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Gan":
+  - firstname: ["Chuang"]
+    url: https://people.csail.mit.edu/ganchuang/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Zhang":
+  - firstname: ["Wenwei"]
+    url: http://zhangwenwei.cn/
+  - firstname: ["Hongxin"]
+    url: https://icefoxzhx.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Chen":
+  - firstname: ["Zehui"]
+    url: https://lovesnowbest.site/
+  - firstname: ["Kai"]
+    url: https://chenkai.site/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Tenenbaum":
+  - firstname: ["Joshua", "Joshua B.", "Joshua B"]
+    url: https://web.mit.edu/cocosci/josh.html
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Wu":
+  - firstname: ["Yi"]
+    url: https://jxwuyi.weebly.com/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Peng":
+  - firstname: ["Andi"]
+    url: https://andipeng.com/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Shu":
+  - firstname: ["Tianmin"]
+    url: https://www.tshu.io/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Du":
+  - firstname: ["Yilun"]
+    url: https://yilundu.github.io/
