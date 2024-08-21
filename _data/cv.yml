@@ -6,19 +6,24 @@
     - name: Date of Birth
       value: 16th Dec. 2001
     - name: Email
-      value: <a href="mailto:duwh20@mails.tsinghua.edu.cn">duwh20@mails.tsinghua.edu.cn</a>
+      value: <a href="mailto:weihuad@andrew.cmu.edu">weihuad@andrew.cmu.edu</a>
     - name: Research Interests
       value: LLM-Based Agent, Embodied AI and Robotics, Reinforcement Learning, Cognitive Science
 
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. student
+      institution: LTI, Carnegie Mellon University, Pittsburgh, US
+      year: 2024-Present
+      description:
+        - Co-advised by <a href="https://www.cs.cmu.edu/~./yiming/">Prof. Yiming Yang</a> and <a href="https://wellecks.com/">Prof. Sean Welleck</a>.
     - title: Undergraduate, Bachelor of Engineering in Computer Science
       institution: Yao Class, Tsinghua University, Beijing, China
-      year: 2020-Present
+      year: 2020-2024
       description:
-        - <a href='https://iiis.tsinghua.edu.cn/en/yaoclass/'>Yao Class</a> 03, <a href='https://iiis.tsinghua.edu.cn/en/'>Institute for Interdisciplinary Information Sciences (IIIS)</a>
-        - GPA <b>3.93/4.00</b> [<a href='/assets/pdf/undergraduate_transcript.pdf'>transcript</a>].
+        - <a href='https://iiis.tsinghua.edu.cn/en/yaoclass/'>Yao Class</a> 03, <a href='https://iiis.tsinghua.edu.cn/en/'>Institute for Interdisciplinary Information Sciences (IIIS)</a>.
+        - GPA <b>3.94/4.00</b>.
     - title: Visiting Student, Department of Brain of Cognitive Sciences
       institution: Massachusetts Institute of Technology, Cambridge, US
       year: 2023.2-2023.7
@@ -33,14 +38,14 @@
   contents:
     - title: Research Intern
       institution: Shanghai Artificial Intelligence Laboratory, China
-      year: 2023.8-Present
+      year: 2023.8-2024.7
       description: 
         - Advisored by <a href="https://zhangwenwei.cn/">Dr. Wenwei Zhang</a> and <a href="https://chenkai.site/">Dr. Kai Chen</a>;
         - Involved in the iterating of InternLM, focusing in improving tool calling capabilities.
 
     - title: Research Intern
       institution: MIT-IBM Watson AI Lab, Massachusetts Institute of Technology, US
-      year: 2023.2-Present
+      year: 2023.2-2023.7
       description: 
         - Advisored by <a href="https://people.csail.mit.edu/ganchuang/">Prof. Chuang Gan</a> and <a href="https://web.mit.edu/cocosci/josh.html">Prof. Joshua B. Tenenbaum</a>;
         - Developing cooperative embodied agents by leveraging Large Language Models (LLMs), focusing on communication and reasoning in multi-agent embodied environments.

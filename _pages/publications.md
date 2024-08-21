@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications and Preprint
+title: Publications
 description: Publications by categories in reversed chronological order. The asterisks(*) mean that authors are equal contribution.
 years: [2024, 2023]
 nav: true
