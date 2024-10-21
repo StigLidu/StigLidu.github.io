@@ -10,7 +10,7 @@ profile:
   address: >
     <p style="text-align: center;">GHC 6711, LTI</p>
     <p style="text-align: center;">Carnegie Mellon University</a></p>
-    <p style="text-align: center;">weihuad@andrew.cmu.edu</p>
+    <p style="text-align: center;">weihuad@cs.cmu.edu</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
