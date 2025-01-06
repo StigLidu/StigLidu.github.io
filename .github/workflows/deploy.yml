@@ -10,6 +10,9 @@ on:
       - master
       - main
 
+permissions:
+  contents: write   # <-- Add this line
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
