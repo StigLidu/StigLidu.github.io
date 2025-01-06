@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: my_pic_4.jpg
+  image: my_pic_2.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p style="text-align: center;">GHC 6711, LTI</p>
