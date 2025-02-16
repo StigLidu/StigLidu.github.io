@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: my_pic_4.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # true # crops the image to make it circular
   address: >
     <p style="text-align: center;">GHC 6711, LTI</p>
     <p style="text-align: center;">Carnegie Mellon University</a></p>
@@ -18,8 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Weihua Du (杜伟桦), a first-year Ph.D. Student at [LTI](https://www.lti.cs.cmu.edu/index.html), [Carnegie Mellon University](https://www.cmu.edu/) co-advised by [Prof. Yiming Yang](https://www.cs.cmu.edu/~./yiming/) and [Prof. Sean Welleck](https://wellecks.com/). Before that, I completed my bachelor’s degree in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)).
+I'm Weihua Du (杜伟桦), a first-year Ph.D. student at [LTI](https://www.lti.cs.cmu.edu/index.html), [Carnegie Mellon University](https://www.cmu.edu/), co-advised by [Prof. Yiming Yang](https://www.cs.cmu.edu/~./yiming/) and [Prof. Sean Welleck](https://wellecks.com/). Previously, I completed my bachelor's degree in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (also known as [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)), where I had the privilege of being advised by [Prof. Yi Wu](https://jxwuyi.weebly.com/). Additionally, I had a wonderful internship at the MIT-IBM Lab, supervised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/).
 
-My long-term research interests are centered on **LLM-Based Agents**, **Embodied AI**, and **Reinforcement Learning**. I am deeply intrigued by human cognitive development, which inspires my goal to develop a General Artificial Intelligence (AGI) agent. Currently, I am focus on **LLM inference strategies**.
+My long-term research interests center on **LLM-Based Agents**, **Embodied AI**, and **Reinforcement Learning**. I am deeply intrigued by human cognitive development, which inspires my goal of developing a General Artificial Intelligence (AGI) agent. Currently, I am focused on **LLM inference strategies**.
 
-Beyond my professional pursuits, I find joy in sports, especially volleyball, badminton, and running.
+Beyond my professional pursuits, I enjoy sports, especially volleyball, badminton, and running.
