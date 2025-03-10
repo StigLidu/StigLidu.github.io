@@ -105,8 +105,7 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: >
-  You can also reach me via WeChat ID: D18068778796.
+contact_note: # a note to display on the contact page
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
