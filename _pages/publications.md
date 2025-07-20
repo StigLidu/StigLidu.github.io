@@ -10,16 +10,15 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-  <h2>Preprints</h2>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @*[typenote=preprint]* %}
+<h2>Preprints</h2>
+{% bibliography -f {{ site.scholar.bibliography }} -q @*[typenote=preprint]* %}
 
-  <hr />
+<hr />
 
-  <h2>Proceedings</h2>
-
-  {%- for y in page.years %}
-    <h2 class="year">{{ y }}</h2>
-    {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]*[typenote=proceedings]* %}
-  {% endfor %}
+<h2>Proceedings</h2>
+{%- for y in page.years %}
+  <h2 class="year">{{ y }}</h2>
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{ y }}]*[typenote=proceedings]* %}
+{%- endfor %}
 
 </div>
