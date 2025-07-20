@@ -11,13 +11,15 @@ nav_order: 1
 <div class="publications">
 
   <h2>Preprints</h2>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @*[journal="arXiv preprint"]* %}
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[note=preprint]* %}
 
   <hr />
 
+  <h2>proceedings</h2>
+
   {%- for y in page.years %}
     <h2 class="year">{{ y }}</h2>
-    {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
+    {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]*[note=proceedings]* %}
   {% endfor %}
 
 </div>
