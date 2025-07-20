@@ -18,7 +18,7 @@ nav_order: 1
 <h2>Proceedings</h2>
 {%- for y in page.years %}
   <h2 class="year">{{ y }}</h2>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{ y }}]*[typenote=proceedings]* %}
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{ y }} && typenote=proceedings]* %}
 {%- endfor %}
 
 </div>
