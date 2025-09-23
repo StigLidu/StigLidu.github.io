@@ -12,11 +12,15 @@
   - firstname: ["Songyang"]
     url: https://www.zhangsongyang.com/
 
-"Chen":
+"Chen":  
+  - firstname: ["Sunli"]
+    url: https://eeeeeerickkk.github.io/
   - firstname: ["Zehui"]
     url: https://lovesnowbest.site/
   - firstname: ["Kai"]
     url: https://chenkai.site/
+  - firstname: ["Jiecao"]
+    url: https://www.linkedin.com/in/jiecao-chen-65352266/
 
 "Tenenbaum":
   - firstname: ["Joshua", "Joshua B.", "Joshua B"]
@@ -47,14 +51,6 @@
 "Shan":
   - firstname: ["Jiaming"]
     url: https://shanjiaming.github.io/
-
-"Chen":
-  - firstname: ["Sunli"]
-    url: https://eeeeeerickkk.github.io/
-  - firstname: ["Zehui"]
-    url: https://lovesnowbest.site/
-  - firstname: ["Kai"]
-    url: https://chenkai.site/
 
 "Yu":
   - firstname: ["Chao"]
@@ -91,3 +87,15 @@
 "Lyu":
   - firstname: ["Qiushi"]
     url: https://alfredlyu.github.io/
+
+"Shi":
+  - firstname: ["Dingyuan"]
+    url: https://dingyuan-shi.github.io/#/
+
+"Ling":
+  - firstname: ["Zhan"]
+    url: https://lz1oceani.github.io/
+
+"Shen":
+  - firstname: ["Lingfeng"]
+    url: https://shadowkiller33.github.io/
