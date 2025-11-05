@@ -47,6 +47,8 @@
 "Zhou":
   - firstname: ["Qinhong"]
     url: https://zhouqqhh.github.io/
+  - firstname: ["Xuhui"]
+    url: https://xuhuiz.com/
 
 "Shan":
   - firstname: ["Jiaming"]
@@ -107,3 +109,15 @@
 "Sun":
   - firstname: ["Weiwei"]
     url: https://sunnweiwei.github.io/
+
+"Wang":
+  - firstname: ["Xingyao"]
+    url: https://xwang.dev/
+  
+"Neubig":
+  - firstname: ["Graham"]
+    url: https://www.phontron.com/
+
+"Sap":
+  - firstname: ["Maarten"]
+    url: https://www.maartensap.com/
