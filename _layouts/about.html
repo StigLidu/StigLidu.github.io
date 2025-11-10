@@ -5,15 +5,15 @@ layout: default
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
-          <h1 class="post-title">
+          <h1 class="post-title" style="position: relative;">
            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}</span>{%- else -%}{{ site.title }}{%- endif %}
-           <span class="chinese-name-toggle" style="cursor: pointer; margin-left: 0.5rem; color: var(--global-text-color-light); display: inline-block;">
+           <span class="chinese-name-toggle" style="cursor: pointer; margin-left: 0.5rem; color: var(--global-text-color-light); display: inline-block; font-size: 0.7em;">
              <i class="fas fa-chevron-right" style="transition: transform 0.3s ease;"></i>
            </span>
+           <span id="chinese-name" class="chinese-name-hidden" style="position: absolute; left: 100%; margin-left: 1rem; white-space: nowrap; opacity: 0; transition: opacity 0.3s ease; top: 0; line-height: inherit;">
+             <span style="color: var(--global-text-color-light); font-size: 0.9em;">{{ site.chinese_name }}</span>
+           </span>
           </h1>
-          <div id="chinese-name" class="chinese-name-hidden" style="max-height: 0; overflow: hidden; transition: max-height 0.3s ease, margin 0.3s ease; margin-top: 0;">
-            <p class="desc" style="margin-top: 0.5rem; color: var(--global-text-color-light);">{{ site.chinese_name }}</p>
-          </div>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
 

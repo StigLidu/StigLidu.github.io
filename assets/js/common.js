@@ -31,17 +31,11 @@ $(document).ready(function() {
         
         if (chineseNameDiv.hasClass('chinese-name-hidden')) {
             chineseNameDiv.removeClass('chinese-name-hidden');
-            chineseNameDiv.css({
-                'max-height': '100px',
-                'margin-top': '0.5rem'
-            });
+            chineseNameDiv.css('opacity', '1');
             toggleIcon.css('transform', 'rotate(90deg)');
         } else {
             chineseNameDiv.addClass('chinese-name-hidden');
-            chineseNameDiv.css({
-                'max-height': '0',
-                'margin-top': '0'
-            });
+            chineseNameDiv.css('opacity', '0');
             toggleIcon.css('transform', 'rotate(0deg)');
         }
     });
