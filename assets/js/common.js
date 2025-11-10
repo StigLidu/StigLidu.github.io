@@ -24,20 +24,25 @@ $(document).ready(function () {
 });
 
 // Toggle Chinese name
-function toggleChineseName() {
-    var chineseNameDiv = document.getElementById('chinese-name');
-    var toggleIcon = document.querySelector('.chinese-name-toggle i');
-    
-    if (chineseNameDiv.classList.contains('chinese-name-hidden')) {
-        chineseNameDiv.classList.remove('chinese-name-hidden');
-        chineseNameDiv.style.maxHeight = '100px';
-        chineseNameDiv.style.marginTop = '0.5rem';
-        toggleIcon.style.transform = 'rotate(180deg)';
-    } else {
-        chineseNameDiv.classList.add('chinese-name-hidden');
-        chineseNameDiv.style.maxHeight = '0';
-        chineseNameDiv.style.marginTop = '0';
-        toggleIcon.style.transform = 'rotate(0deg)';
-    }
-}
-
+$(document).ready(function() {
+    $('.chinese-name-toggle').click(function() {
+        var chineseNameDiv = $('#chinese-name');
+        var toggleIcon = $(this).find('i');
+        
+        if (chineseNameDiv.hasClass('chinese-name-hidden')) {
+            chineseNameDiv.removeClass('chinese-name-hidden');
+            chineseNameDiv.css({
+                'max-height': '100px',
+                'margin-top': '0.5rem'
+            });
+            toggleIcon.css('transform', 'rotate(90deg)');
+        } else {
+            chineseNameDiv.addClass('chinese-name-hidden');
+            chineseNameDiv.css({
+                'max-height': '0',
+                'margin-top': '0'
+            });
+            toggleIcon.css('transform', 'rotate(0deg)');
+        }
+    });
+});
