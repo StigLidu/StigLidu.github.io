@@ -22,7 +22,7 @@ I’m a second-year Ph.D. student at the [Language Technologies Institute](https
 
 Before coming to CMU, I earned my bachelor’s degree in Computer Science and Technology from the [IIIS](https://iiis.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)), where I had the privilege of working with [Prof. Yi Wu](https://jxwuyi.weebly.com/).
 
-Along the way, I’ve been lucky to intern at several inspiring research labs: the [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) (with [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/)), [Shanghai AI Lab](https://www.shlab.org.cn/) (with [Dr. Kai Chen](https://chenkai.site/) and [Dr. Wenwei Zhang](https://zhangwenwei.cn/)), and [Seed](https://jiecchen.github.io/) (with [Dr. Jiecao Chen](https://jiecchen.github.io/)).
+Along the way, I’ve been lucky to intern at several inspiring research labs: the [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) (with [Prof. Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html) and [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/)), [Shanghai AI Lab](https://www.shlab.org.cn/) (with [Dr. Kai Chen](https://chenkai.site/) and [Dr. Wenwei Zhang](https://zhangwenwei.cn/)), and [Seed](https://jiecchen.github.io/) (with [Dr. Jiecao Chen](https://jiecchen.github.io/)).
 
 My long-term research interests center on **LLM-Based Agents**, **Embodied AI**, and **Reinforcement Learning**. I am deeply intrigued by human cognitive development, which inspires my goal of developing a General Artificial Intelligence (AGI) agent. Currently, I am focused on **LLM inference strategies**.
 
