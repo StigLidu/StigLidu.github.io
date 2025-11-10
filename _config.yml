@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Weihua
 middle_name: 
 last_name: Du
-chinese_name: 杜伟桦 (read /ˈweɪˌhwɑː duː/) # Chinese name to display when clicking the arrow, with IPA
+chinese_name: 杜伟桦 (read as /ˈweɪˌhwɑː duː/) # Chinese name to display when clicking the arrow, with IPA
 email: weihuad@cs.cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The personal academic website of Weihua Du.
