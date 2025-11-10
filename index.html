@@ -125,9 +125,14 @@
       <div class="post">
         <header class="post-header">
           <h1 class="post-title">
-           <span class="font-weight-bold">Weihua<span class="font-weight-bold"> Du
-          </span></span>
-</h1>
+           <span class="font-weight-bold">Weihua  Du</span>
+           <span class="chinese-name-toggle" style="cursor: pointer; margin-left: 0.5rem; color: var(--global-text-color-light); transition: transform 0.3s ease;" onclick="toggleChineseName()">
+             <i class="fas fa-chevron-down"></i>
+           </span>
+          </h1>
+          <div id="chinese-name" class="chinese-name-hidden" style="max-height: 0; overflow: hidden; transition: max-height 0.3s ease, margin 0.3s ease; margin-top: 0;">
+            <p class="desc" style="margin-top: 0.5rem; color: var(--global-text-color-light);">杜伟桦</p>
+          </div>
           <p class="desc"></p>
         </header>
 
