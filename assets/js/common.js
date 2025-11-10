@@ -27,16 +27,19 @@ $(document).ready(function () {
 $(document).ready(function() {
     $('.chinese-name-toggle').click(function() {
         var chineseNameDiv = $('#chinese-name');
-        var toggleIcon = $(this).find('i');
         
         if (chineseNameDiv.hasClass('chinese-name-hidden')) {
             chineseNameDiv.removeClass('chinese-name-hidden');
-            chineseNameDiv.css('opacity', '1');
-            toggleIcon.css('transform', 'rotate(90deg)');
+            chineseNameDiv.css({
+                'opacity': '1',
+                'visibility': 'visible'
+            });
         } else {
             chineseNameDiv.addClass('chinese-name-hidden');
-            chineseNameDiv.css('opacity', '0');
-            toggleIcon.css('transform', 'rotate(0deg)');
+            chineseNameDiv.css({
+                'opacity': '0',
+                'visibility': 'hidden'
+            });
         }
     });
 });
