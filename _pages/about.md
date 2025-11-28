@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: my_pic_4.jpg
+  image: pic.jpg
   image_circular: false # true # crops the image to make it circular
   max_width: 280px  # Set maximum width of the image (e.g., "280px", "50%", "20rem")
   # width: 280px  # Alternatively, set fixed width instead of max_width
