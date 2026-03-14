@@ -152,7 +152,19 @@
         <div class="author">
         
 
-        <a href="https://zhouqqhh.github.io/" rel="external nofollow noopener" target="_blank">Qinhong Zhou*</a>, <a href="https://eeeeeerickkk.github.io/" rel="external nofollow noopener" target="_blank">Sunli Chen*</a>, Yisong Wang, Haozhe Xu, <strong>Weihua Du</strong>, <a href="https://icefoxzhx.github.io/" rel="external nofollow noopener" target="_blank">Hongxin Zhang</a>, <a href="https://yilundu.github.io/" rel="external nofollow noopener" target="_blank">Yilun Du</a>, <a href="https://web.mit.edu/cocosci/josh.html" rel="external nofollow noopener" target="_blank">Joshua B Tenenbaum</a>, and <a href="https://people.csail.mit.edu/ganchuang/" rel="external nofollow noopener" target="_blank">Chuang Gan</a>
+        <a href="https://xuhuiz.com/" rel="external nofollow noopener" target="_blank">Xuhui Zhou*</a>, <a href="https://sunnweiwei.github.io/" rel="external nofollow noopener" target="_blank">Weiwei Sun*</a>, Qianou Ma, Yiqing Xie, Jiarui Liu, <strong>Weihua Du</strong>, S. Welleck, <a href="https://www.cs.cmu.edu/~./yiming/" rel="external nofollow noopener" target="_blank">Yiming Yang</a>, <a href="https://www.phontron.com/" rel="external nofollow noopener" target="_blank">Graham Neubig</a>, Sherry Tongshuang Wu, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'Maarten Sap' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>
 </div>
 
         <!-- Journal/Book title and date -->
