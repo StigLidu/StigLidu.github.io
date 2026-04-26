@@ -180,6 +180,12 @@ table.table a:hover:after :not(.nav-item.dropdown) {
   background-color: transparent;
 }
 
+.news table.table th,
+.news table.table td {
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+}
+
 figure,
 img {
   max-width: 90vw;
