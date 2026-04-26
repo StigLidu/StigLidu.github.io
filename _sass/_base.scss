@@ -61,6 +61,16 @@ table.table a {
   background-color: transparent;
 }
 
+.news {
+  table.table {
+    th,
+    td {
+      padding-top: 0.3rem;
+      padding-bottom: 0.3rem;
+    }
+  }
+}
+
 figure,
 img {
   max-width: 90vw;
