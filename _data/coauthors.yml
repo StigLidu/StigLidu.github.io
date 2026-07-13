@@ -11,6 +11,8 @@
     url: https://sites.google.com/view/jingzhao/home
   - firstname: ["Songyang"]
     url: https://www.zhangsongyang.com/
+  - firstname: ["Xiangliang"]
+    url: https://sites.nd.edu/xiangliang-zhang/
 
 "Chen":  
   - firstname: ["Sunli"]
@@ -21,6 +23,10 @@
     url: https://chenkai.site/
   - firstname: ["Jiecao"]
     url: https://www.linkedin.com/in/jiecao-chen-65352266/
+  - firstname: ["Sihao"]
+    url: https://sihaoc.github.io/
+  - firstname: ["Tianqi"]
+    url: https://tqchen.com/
 
 "Tenenbaum":
   - firstname: ["Joshua", "Joshua B.", "Joshua B"]
@@ -31,6 +37,8 @@
     url: https://jxwuyi.weebly.com/
   - firstname: ["Siyang"]
     url: https://nj-wusiyang.github.io/
+  - firstname: ["Tongshuang", "Sherry Tongshuang", "Sherry"]
+    url: https://www.cs.cmu.edu/~sherryw/
 
 "Peng":
   - firstname: ["Andi"]
@@ -49,6 +57,8 @@
     url: https://zhouqqhh.github.io/
   - firstname: ["Xuhui"]
     url: https://xuhuiz.com/
+  - firstname: ["Pei"]
+    url: https://shaoxia57.github.io/
 
 "Shan":
   - firstname: ["Jiaming"]
@@ -57,6 +67,8 @@
 "Yu":
   - firstname: ["Chao"]
     url: https://nicsefc.ee.tsinghua.edu.cn/people/ChaoYu
+  - firstname: ["Xiaodong"]
+    url: https://www.xiaodongyu.me/
 
 "Yao":
   - firstname: ["Xingcheng"]
@@ -65,6 +77,8 @@
 "Zhao":
   - firstname: ["Xianzhong"]
     url: https://civileng.tongji.edu.cn/civilengen/71/e4/c16214a160228/page.htm
+  - firstname: ["Feng"]
+    url: https://bivlab123.github.io/
 
 "Fu":
   - firstname: ["Wei"]
@@ -77,6 +91,8 @@
 "Yang":
   - firstname: ["Yiming"]
     url: https://www.cs.cmu.edu/~./yiming/
+  - firstname: ["Longqi"]
+    url: https://ylongqi.com/
 
 "Welleck":
   - firstname: ["Sean"]
@@ -129,3 +145,69 @@
 "Ungar":
   - firstname: ["Lyle"]
     url: https://www.cis.upenn.edu/~ungar/
+
+"Liu":
+  - firstname: ["Jiarui"]
+    url: https://jiarui-liu.github.io/
+  - firstname: ["Jiayuan"]
+    url: https://liu-jiayuan.github.io/
+
+"Ma":
+  - firstname: ["Qianou"]
+    url: https://qianouma.com/
+
+"Xie":
+  - firstname: ["Yiqing"]
+    url: https://yiqingxyq.github.io/
+
+"Wan":
+  - firstname: ["Mengting"]
+    url: https://mengtingwan.github.io/
+
+"Zhuo":
+  - firstname: ["Jingming"]
+    url: https://jingmingzhuo.github.io/
+
+"Dong":
+  - firstname: ["Yixin"]
+    url: https://github.com/Ubospica
+
+"Dettmers":
+  - firstname: ["Tim"]
+    url: https://timdettmers.com/
+
+"Huang":
+  - firstname: ["Yue"]
+    url: https://howiehwong.github.io/
+
+"Luo":
+  - firstname: ["Yingtao"]
+    url: https://yingtaoluo.github.io/
+
+"Conitzer":
+  - firstname: ["Vincent"]
+    url: https://www.cs.cmu.edu/~conitzer/
+
+"Kingsford":
+  - firstname: ["Carl"]
+    url: https://www.cs.cmu.edu/~ckingsf/
+
+"Guo":
+  - firstname: ["Mingyu"]
+    url: https://cs.adelaide.edu.au/~mingyu/
+
+"Tang":
+  - firstname: ["Jianheng"]
+    url: https://squareroot3.github.io/
+
+"Rao":
+  - firstname: ["Delip"]
+    url: https://deliprao.com/
+
+"Lin":
+  - firstname: ["Dahua"]
+    url: http://dahua.site/
+
+"Zheng":
+  - firstname: ["Zeyu"]
+    url: https://zeyu-zheng.github.io/
