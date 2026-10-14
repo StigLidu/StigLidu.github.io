@@ -8,4 +8,4 @@ _site
 .tweet-cache
 Gemfile.lock
 vendor
-CV_raw/*
+CV_raw/
